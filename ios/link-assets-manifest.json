@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Itim-Regular.ttf",
+      "sha1": "541b4ee96a4419d10f67fcc001a739a055298e47"
+    },
+    {
+      "path": "assets/fonts/Jomolhari-Regular.ttf",
+      "sha1": "6313bae9b8565221f005ccc2019dedfcc5fd6f6b"
+    },
+    {
+      "path": "assets/fonts/LilitaOne-Regular.ttf",
+      "sha1": "3a4f50ed3543a0d3291ef171aeee5408072559bd"
+    },
+    {
+      "path": "assets/fonts/Modak-Regular.ttf",
+      "sha1": "46b8d9e4dedd90b6d81199c676a371996c662ee3"
+    },
+    {
+      "path": "assets/fonts/Slackey-Regular.ttf",
+      "sha1": "3d33e47d640c5ba0f54486ce616bace36db7772d"
+    }
+  ]
+}
